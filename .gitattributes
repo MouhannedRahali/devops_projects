@@ -1,0 +1,6 @@
+# Set the default behavior for all text files
+* text=auto
+
+# Set specific behavior for files with certain extensions
+*.txt text
+*.md text
